@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591993564443",
+    "project_id": "smartpocketapp-70ce1",
+    "storage_bucket": "smartpocketapp-70ce1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591993564443:android:cfd09c8cb24bc432ccf7be",
+        "android_client_info": {
+          "package_name": "com.smartpocket.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBuYHTATCykcnUhleiN57_RG02xPiZONQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
