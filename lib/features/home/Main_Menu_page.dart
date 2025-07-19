@@ -270,7 +270,7 @@ class _MainMenuPageState extends State<MainMenuPage> {
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
                             SvgPicture.asset(
-                              'assets/images/depositsvg2.svg',
+                              'assets/images/depositMoney.svg',
                               height: 29,
                               color: Color(0xFF00DB8B),
                             ),
@@ -364,7 +364,7 @@ class _MainMenuPageState extends State<MainMenuPage> {
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
                             SvgPicture.asset(
-                              'assets/images/lock-keyhole.svg',
+                              'assets/images/lock_keyhole.svg',
                               height: 29,
                               color: Color(0xFF00DB8B),
                             ),

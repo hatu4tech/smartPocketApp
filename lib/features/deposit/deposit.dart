@@ -31,7 +31,7 @@ class _DepositState extends State<Deposit> {
               SizedBox(height: 80),
 
               SvgPicture.asset(
-                'assets/images/depositsvg2.svg',
+                'assets/images/depositMoney.svg',
                 height: 40,
                 color: Color(0xFF00DB8B),
               ),
